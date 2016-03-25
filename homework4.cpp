@@ -39,3 +39,21 @@ Which method does the method call bObj.demoFunc() invoke, and which method does
 the method call dObj.demoFunc() invoke?
 
     bobj.demoFunc() invokes the base class method and dobj.demoFunc() invokes the derived class method.
+    
+Question 2b:
+
+public class DerivedQueue extends Queue {
+
+  public void emergency_push(T &elm){
+    Node<T> = new Node<T>(elm,Queue<T> head);
+    if(Queue<T> tail = NULL) {
+      Queue<T> tail = new Node;
+    }
+  
+  Queue<T> head = new node;
+  Queue<T> size++;
+  
+  }
+}
+
+
