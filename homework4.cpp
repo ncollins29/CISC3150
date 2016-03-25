@@ -56,4 +56,10 @@ public class DerivedQueue extends Queue {
   }
 }
 
+Question 3:
+
+The first displayEmployeeInfo  displays name, ssn , hourly pay, and hours worked
+The second displayEmployeeInfo  displays name, ssn , and salary
+The third displayEmployeeInfo  displays name, ssn ,and salary
+
 
